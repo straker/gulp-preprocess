@@ -12,7 +12,7 @@
   "dependencies": {
     "lodash": "^4.17.15",
     "map-stream": "^0.1.x",
-    "preprocess": "^3.0.0"
+    "preprocess": "straker/preprocess#master"
   },
   "devDependencies": {
     "eslint": "^6.3.0",
